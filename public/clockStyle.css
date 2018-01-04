@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+}
+
+p {
+    text-align: center;
+    font-size: 300%;
+}
+
+article {
+    width: 50vw;
+    height: 20vw;
+    margin: auto;
+    
+    position: relative;
+    top: 40%;
+    transform: translateY(-50%);
+}
+
+div {
+    width: 5.55vw;
+    height: 5.55vw;
+    float: left;
+    font-size: 3vw;
+    text-align: center;
+}
